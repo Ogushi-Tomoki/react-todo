@@ -3,7 +3,8 @@
 以下のコマンドを実行
 
 ```
-git clone https://github.com/prg-titech/Kanon.git
+git clone https://github.com/Ogushi-Tomoki/react-todo.git
+cd react-todo
 ```
 `npm`がインストールされていない場合は以下のコマンドを実行
 
